@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @adarshpandaa
-- 👀 I’m interested in Java Full Stack Developing.
-- 🌱 I’m currently learning Git and Java backend technologies
-- 💞️ I’m looking to collaborate on Java Backend Services
+- 👀 I’m interested in React Front end And Java Full Stack Developing.
+- 🌱 I’m currently learning Git and Java backend technologies.
+- 💞️ I’m looking to collaborate on React based Services
 - 📫 You can reach me on adarshpandaa@gmail.com or 9337655983 for any kind of references.
 
 <!---
